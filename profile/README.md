@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="assets/logo.png" alt="Colligatio Logo" width="180"></td>
+<td><img src="profile/assets/logo.png" alt="Colligatio Logo" width="180"></td>
 <td align="right"><b>IT 与历史，宽容与理解</b><br><b>IT and History, Tolerance and Understanding</b></td>
 </tr>
 </table>
@@ -62,13 +62,13 @@ Precision Clock（精密时钟）是 Colligatio 已发布的开源桌面时间�
 
 维护方式方面，精密时钟采用版本迭代制，功能更新与缺陷修复通过 GitHub Releases 发布，源码公开可查，构建流程可复现。
 
-![Precision Clock Windows 悬浮窗](assets/precision-clock-preview-win.png)
+![Precision Clock Windows 悬浮窗](profile/assets/precision-clock-preview-win.png)
 
-![Precision Clock Linux 悬浮窗](assets/precision-clock-preview-linux.png)
+![Precision Clock Linux 悬浮窗](profile/assets/precision-clock-preview-linux.png)
 
-![Precision Clock 深色模式](assets/precision-clock-dark.png)
+![Precision Clock 深色模式](profile/assets/precision-clock-dark.png)
 
-![Precision Clock 动态校时](assets/precision-clock.gif)
+![Precision Clock 动态校时](profile/assets/precision-clock.gif)
 
 ---
 
@@ -127,10 +127,10 @@ In terms of features, Precision Clock supports multi-source NTP cross-validation
 
 In terms of maintenance, Precision Clock follows a versioned release model. Feature updates and bug fixes are published through GitHub Releases. Source code is publicly available, and the build process is reproducible.
 
-![Precision Clock Windows floating window](assets/precision-clock-preview-win.png)
+![Precision Clock Windows floating window](profile/assets/precision-clock-preview-win.png)
 
-![Precision Clock Linux floating window](assets/precision-clock-preview-linux.png)
+![Precision Clock Linux floating window](profile/assets/precision-clock-preview-linux.png)
 
-![Precision Clock dark mode](assets/precision-clock-dark.png)
+![Precision Clock dark mode](profile/assets/precision-clock-dark.png)
 
-![Precision Clock animated time sync](assets/precision-clock.gif)
+![Precision Clock animated time sync](profile/assets/precision-clock.gif)
