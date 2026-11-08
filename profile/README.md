@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td><img src="profile/assets/logo.png" alt="Colligatio Logo" width="180"></td>
-<td align="right"><b>IT 与历史，宽容与理解</b><br><b>IT and History, Tolerance and Understanding</b></td>
+<td align="right"><b>由同行开发，为大众服务。</b><br><b>Software for people, by peers.</b></td>
 </tr>
 </table>
 
